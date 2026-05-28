@@ -1,7 +1,7 @@
 # AI-Empowered Space-Air-Ground Integrated Networks (SAGIN)
 
 ## Overview
-This project explores AI-driven Space-Air-Ground Integrated Networks (SAGIN) for future 6G wireless communication systems. The research focuses on how Artificial Intelligence (AI) improves communication between satellites, drones, airborne platforms, and terrestrial networks.
+This project explores AI-driven Space-Air-Ground Integrated Networks (SAGIN) for future 6G wireless communication systems. The research investigates how Artificial Intelligence (AI) can optimize communication and coordination between satellites, unmanned aerial vehicles (UAVs), airborne platforms, and terrestrial networks to provide seamless global connectivity.
 
 ## Objectives
 - Study SAGIN architecture
@@ -19,6 +19,7 @@ This project explores AI-driven Space-Air-Ground Integrated Networks (SAGIN) for
 - Massive MIMO
 - Edge AI
 - Wireless Communication
+- Space-Air-Ground Integrated Networks (SAGIN)
 
 ## Team Members
 | Name | GitHub |
