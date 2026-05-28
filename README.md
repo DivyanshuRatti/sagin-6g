@@ -24,7 +24,7 @@ This project explores AI-driven Space-Air-Ground Integrated Networks (SAGIN) for
 | Name | GitHub |
 |------|---------|
 | Divyanshu Ratti | @DivyanshuRatti |
-| Henry Majo | @deprince1990 |
+| Henry Manjo | @deprince1990 |
 | Rajdeep Kaur | @Rajdeep0617 |
 
 ## References
