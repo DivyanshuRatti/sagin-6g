@@ -28,6 +28,17 @@ This project explores AI-driven Space-Air-Ground Integrated Networks (SAGIN) for
 | Henry Manjo | @deprince1990 |
 | Rajdeep Kaur | @Rajdeep0617 |
 
+## Preliminary Ownership Table
+|Section | Author(s)|
+|:-------|:--------:|
+|Abstract|Henry Manjo, Divyanshu Ratti|
+|Introduction|Rajdeep kaur|
+|Background|Henry Manjo, Divyanshu Ratti, Rajdeep Kaur|
+|Literature Review| Divyanshu Ratti|
+|Discussion|Henry Manjo, Divyanshu Ratti, Rajdeep Kaur|
+|Proposed Idea|Divyanshu Ratti|
+|Conclusion|Divyanshu Ratti, Rajdeep Kaur|
+|References|Henry Manjo, Divyanshu Ratti, Rajdeep Kaur|
 ## References
 
 1. Edge AI empowered physical layer security for 6G NTN: Potential threats and future opportunities.
