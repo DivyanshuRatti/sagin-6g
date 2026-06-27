@@ -2,7 +2,7 @@
 
 **Full Citation:** A. Bakambekova, N. Kouzayha, and T. Al-Naffouri, "On the Interplay of Artificial Intelligence and Space-Air-Ground Integrated Networks: A Survey," arXiv preprint arXiv:2402.00881, 2024. https://arxiv.org/abs/2402.00881
 
-## Summary (3–5 sentences in your own words)
+## Summary 
 
 From reading the abstract, I think the main point of this paper is to show how artificial intelligence is being used throughout Space-Air-Ground Integrated Networks (SAGIN). Instead of proposing a new AI model, the authors review existing research and explain how different AI techniques, such as machine learning, deep learning, and reinforcement learning, are being used to improve communication, resource allocation, beam management, traffic prediction, and network security. One thing that stood out to me was that the paper also looks at the relationship in both directions. It explains not only how AI can improve SAGIN, but also how SAGIN can support AI by providing more computing resources and data for training future AI systems. The paper finishes by discussing the challenges that still need to be solved before AI can be fully integrated into future 6G SAGIN networks.
 
