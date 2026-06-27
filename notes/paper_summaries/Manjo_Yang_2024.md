@@ -2,7 +2,7 @@
 
 **Full Citation:** M. Yang and J. Zhang, "DFedSat: Communication-Efficient and Robust Decentralized Federated Learning for LEO Satellite Constellations," arXiv preprint arXiv:2407.05850, 2024. https://arxiv.org/abs/2407.05850
 
-## Summary (3–5 sentences in your own words)
+## Summary 
 
 From reading the abstract, I think the main goal of this paper is to improve federated learning in low Earth orbit (LEO) satellite constellations by removing the need for a central ground station to coordinate the training process. Instead, the satellites communicate directly with each other through inter-satellite links to share model updates and train AI models collaboratively. The authors propose a decentralized federated learning framework called DFedSat, which is designed to reduce communication overhead while remaining reliable even if some satellites fail or communication links become unstable. The results show that DFedSat improves communication efficiency and maintains strong learning performance compared to traditional centralized federated learning approaches.
 
