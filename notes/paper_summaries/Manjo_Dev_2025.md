@@ -2,7 +2,7 @@
 
 **Full Citation:** K. Dev, S. A. Khowaja, K. Singh, E. Zeydan, and M. Debbah, "Advanced Architectures Integrated with Agentic AI for Next-Generation Wireless Networks," arXiv preprint arXiv:2502.01089, 2025. https://arxiv.org/abs/2502.01089
 
-## Summary (3–5 sentences in your own words)
+## Summary 
 
 From reading the paper, I understood that the authors are looking at different ways to improve future 6G wireless networks by using Agentic AI and new network architectures. Their goal is to make networks easier to manage, reduce operating costs, and support new services as wireless technology continues to grow. They discuss ideas such as AI agents that can learn and make decisions in real time, serverless computing for managing backend services, and optical networking to provide faster communication with lower delay. Overall, the paper focuses on making future wireless networks more efficient, flexible, and capable of handling increasing network demands.
 
