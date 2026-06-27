@@ -2,7 +2,7 @@
 
 **Full Citation:** C. Huang, et al., "Joint Offloading and Resource Allocation for Hybrid Cloud and Edge Computing in SAGINs: A Decision Assisted Hybrid Action Space Deep Reinforcement Learning Approach," arXiv preprint arXiv:2401.01140, 2024. https://arxiv.org/abs/2401.01140
 
-## Summary (3–5 sentences in your own words)
+## Summary 
 
 From reading the abstract, I think the main goal of this paper is to improve how computing tasks are managed in Space-Air-Ground Integrated Networks (SAGIN). Instead of processing every task in one location, the network has to decide whether the task should be handled by a UAV, a satellite, or a cloud server while keeping both delay and energy consumption as low as possible. The authors use a deep reinforcement learning approach to make these decisions automatically, taking into account that some tasks depend on others and must be completed in a specific order. The results suggest that this approach can make better offloading and resource allocation decisions than traditional methods, leading to better overall network performance.
 
