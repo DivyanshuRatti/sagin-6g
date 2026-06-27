@@ -2,7 +2,7 @@
 
 **Full Citation:** C. Zhang, et al., "Energy Efficient Trajectory Control and Resource Allocation in Multi-UAV-assisted MEC via Deep Reinforcement Learning," arXiv preprint arXiv:2508.00261, 2025. https://arxiv.org/abs/2508.00261
 
-## Summary (3–5 sentences in your own words)
+## Summary 
 
 From reading the abstract, I think the main goal of this paper is to improve the performance of multi-UAV mobile edge computing (MEC) networks by optimizing both the flight paths of UAVs and the way computing resources are allocated to ground devices. Instead of treating these two problems separately, the authors combine them and use a deep reinforcement learning approach to make better decisions automatically. Their goal is to serve more users while reducing energy consumption and communication delays. The results show that the proposed approach performs better than traditional optimization methods by improving resource allocation, reducing energy consumption, and lowering communication delays in multi-UAV mobile edge computing networks.
 
