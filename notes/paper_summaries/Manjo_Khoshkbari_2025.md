@@ -2,7 +2,7 @@
 
 **Full Citation:** H. Khoshkbari, G. Kaddoum, B. Selim, O. Abbasi, and H. Yanikomeroglu, "Distributed Beamforming in Massive MIMO Communication for a Constellation of Airborne Platform Stations," in ICC 2025 - IEEE International Conference on Communications, 2025, pp. 4383–4388. https://arxiv.org/abs/2512.23900
 
-## Summary (3–5 sentences in your own words)
+## Summary 
 
 From reading the paper, I think the main goal is to find a better way for multiple airborne base stations to work together and provide wireless coverage. Normally, these stations need to share channel state information (CSI) with each other to coordinate their beamforming, but that creates extra communication overhead and can slow the network down. The authors propose using a multi-agent reinforcement learning approach, where each airborne platform learns to make its own beamforming decisions without needing to share CSI with the other platforms. They compare their method with two traditional beamforming techniques and show that it performs better, especially in situations with high interference. Overall, the paper suggests that AI can improve the efficiency and scalability of future airborne wireless networks while reducing the need for constant information exchange between platforms.
 
