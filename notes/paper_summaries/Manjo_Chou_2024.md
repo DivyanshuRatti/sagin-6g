@@ -2,7 +2,7 @@
 
 **Full Citation:** Chou, H., Solanki, S., Ha, V. N., Chen, L., Ma, S. L., Al-Hraishawi, H., Eappen, G., Querol, J., Merlano-Duncan, J. C., & Chatzinotas, S. (2024). Edge AI Empowered Physical Layer Security for 6G NTN: Potential Threats and Future Opportunities. arXiv:2401.01005.
 
-## Summary (3–5 sentences in your own words)
+## Summary 
 
 This paper discusses how Edge AI can improve the security of 6G Non-Terrestrial Networks (NTNs), which include satellites, drones, and high-altitude platforms. The authors explain that future wireless networks will face new security threats because they will connect many different devices across space, air, and ground. The paper explores how artificial intelligence can detect attacks, protect communications, and improve physical layer security by making faster decisions close to where the data is generated, using techniques like federated learning and split deep learning to keep that processing close to the edge. It also identifies current challenges, including limited computing resources, privacy concerns, and the need for more reliable AI models in real-world 6G networks.
 
