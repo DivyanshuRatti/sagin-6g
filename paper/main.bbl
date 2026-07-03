@@ -1,0 +1,53 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Bakambekova, Kouzayha, and
+  Al-Naffouri(2024)}]{bakambekova2024interplay}
+Bakambekova, A.; Kouzayha, N.; and Al-Naffouri, T. 2024.
+\newblock On the Interplay of Artificial Intelligence and Space-Air-Ground
+  Integrated Networks: A Survey.
+\newblock \emph{arXiv preprint arXiv:2402.00881}.
+
+\bibitem[{Chou et~al.(2024)Chou, Solanki, Ha, Chen, Ma, Al-Hraishawi, Eappen,
+  Querol, Merlano-Duncan, and Chatzinotas}]{chou2024edge}
+Chou, H.; Solanki, S.; Ha, V.~N.; Chen, L.; Ma, S.~L.; Al-Hraishawi, H.;
+  Eappen, G.; Querol, J.; Merlano-Duncan, J.~C.; and Chatzinotas, S. 2024.
+\newblock Edge AI Empowered Physical Layer Security for 6G NTN: Potential
+  Threats and Future Opportunities.
+\newblock \emph{arXiv preprint arXiv:2401.01005}.
+
+\bibitem[{Dev et~al.(2025)Dev, Khowaja, Singh, Zeydan, and
+  Debbah}]{dev2025advanced}
+Dev, K.; Khowaja, S.~A.; Singh, K.; Zeydan, E.; and Debbah, M. 2025.
+\newblock Advanced Architectures Integrated with Agentic AI for Next-Generation
+  Wireless Networks.
+\newblock \emph{arXiv preprint arXiv:2502.01089}.
+
+\bibitem[{Huang et~al.(2024)}]{huang2024joint}
+Huang, C.; et~al. 2024.
+\newblock Joint Offloading and Resource Allocation for Hybrid Cloud and Edge
+  Computing in SAGINs: A Decision Assisted Hybrid Action Space Deep
+  Reinforcement Learning Approach.
+\newblock \emph{arXiv preprint arXiv:2401.01140}.
+
+\bibitem[{Khoshkbari et~al.(2025)Khoshkbari, Kaddoum, Selim, Abbasi, and
+  Yanikomeroglu}]{khoshkbari2025distributed}
+Khoshkbari, H.; Kaddoum, G.; Selim, B.; Abbasi, O.; and Yanikomeroglu, H. 2025.
+\newblock Distributed Beamforming in Massive MIMO Communication for a
+  Constellation of Airborne Platform Stations.
+\newblock In \emph{ICC 2025 - IEEE International Conference on Communications},
+  4383--4388.
+
+\bibitem[{Yang and Zhang(2024)}]{yang2024dfedsat}
+Yang, M.; and Zhang, J. 2024.
+\newblock DFedSat: Communication-Efficient and Robust Decentralized Federated
+  Learning for LEO Satellite Constellations.
+\newblock \emph{arXiv preprint arXiv:2407.05850}.
+
+\bibitem[{Zhang et~al.(2025)}]{zhang2025energy}
+Zhang, C.; et~al. 2025.
+\newblock Energy Efficient Trajectory Control and Resource Allocation in
+  Multi-UAV-assisted MEC via Deep Reinforcement Learning.
+\newblock \emph{arXiv preprint arXiv:2508.00261}.
+
+\end{thebibliography}

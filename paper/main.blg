@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: aaai2026.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Illegal, another \bibstyle command---line 19 of file main.aux
+ : \bibstyle
+ :          {aaai2026}
+I'm skipping whatever remains of this command
+Database file #1: references.bib
+You've used 7 entries,
+            2840 wiz_defined-function locations,
+            614 strings with 6078 characters,
+and the built_in function-call counts, 4561 in all, are:
+= -- 349
+> -- 299
+< -- 0
++ -- 109
+- -- 103
+* -- 327
+:= -- 800
+add.period$ -- 28
+call.type$ -- 7
+change.case$ -- 59
+chr.to.int$ -- 8
+cite$ -- 7
+duplicate$ -- 295
+empty$ -- 261
+format.name$ -- 123
+if$ -- 856
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 66
+newline$ -- 39
+num.names$ -- 28
+pop$ -- 156
+preamble$ -- 1
+purify$ -- 57
+quote$ -- 0
+skip$ -- 142
+stack$ -- 0
+substring$ -- 117
+swap$ -- 140
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 63
+warning$ -- 0
+while$ -- 31
+width$ -- 0
+write$ -- 88
+(There was 1 error message)

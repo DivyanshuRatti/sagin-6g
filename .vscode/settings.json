@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/c:\\Users\\bigbr\\OneDrive - Kwantlen Polytechnic University\\Info 3180-Wireless Communications\\paper\\main.aux": true,
+        "**/c:\\Users\\bigbr\\OneDrive - Kwantlen Polytechnic University\\Info 3180-Wireless Communications\\paper\\main.log": true,
+        "**/c:\\Users\\bigbr\\OneDrive - Kwantlen Polytechnic University\\Info 3180-Wireless Communications\\paper\\main.gz": true,
+        "**/c:\\Users\\bigbr\\OneDrive - Kwantlen Polytechnic University\\Info 3180-Wireless Communications\\paper\\main.out": true
+    }
+}
