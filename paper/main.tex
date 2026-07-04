@@ -77,16 +77,17 @@ Throughout the literature reviewed in this survey, several recurring AI techniqu
 
 %%% -------------------------------------------------------
 %%% SECTION: Literature Review
-%%% AUTHOR : Divyanshu Ratti
+%%% AUTHOR : Divyanshu Ratti (@DivyanshuRatti)
 %%% -------------------------------------------------------
 \section{Literature Review}
-% TODO (~2 pages): Organized discussion of 5-10 papers from
-% notes/paper_summaries/. Group by theme (e.g., security, resource
-% allocation, beamforming, orchestration) rather than listing papers
-% one by one. Cite using \citep{} / \citet{} once references.bib is set up.
-Placeholder literature review text.
 
-%%% END SECTION: Literature Review
+\subsection{AI-Based Resource Allocation and Task Offloading}
+
+Resource allocation is one of the main challenges in SAGIN because satellites, UAVs, and ground networks have different computing resources, energy limits, and communication delays. Traditional fixed rules may not work well because users, network traffic, and wireless links can change quickly. Therefore, many researchers use artificial intelligence to help SAGIN decide where traffic and computing tasks should be processed.
+
+Tang et al. used deep reinforcement learning to move traffic between the space, air, and ground layers when traffic demand and link quality change. Their approach helps the network avoid congestion and reduce unnecessary delay \cite{Tang2022TrafficOffloading}. Similarly, Zhou et al. used deep reinforcement learning to decide whether Internet of Things tasks should be processed by a UAV, a ground base station, or a satellite link. Their method focused on reducing task delay while keeping UAV energy use within safe limits \cite{Zhou2021IoTTaskScheduling}.
+
+These studies show that AI can improve resource allocation and task offloading in SAGIN. However, both approaches mainly depend on simulations. Real SAGIN deployments may experience weather changes, link failures, limited computing power, and incomplete network information. More practical testing is needed before these methods can be widely deployed.
 
 %%% -------------------------------------------------------
 %%% SECTION: Discussion
