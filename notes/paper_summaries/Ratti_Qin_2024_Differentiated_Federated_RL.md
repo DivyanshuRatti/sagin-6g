@@ -1,14 +1,18 @@
 # Paper Summary
 
-**Full Citation:** Y. Qin, Y. Yang, F. Tang, X. Yao, M. Zhao, and N. Kato, "Differentiated Federated Reinforcement Learning Based Traffic Offloading on Space-Air-Ground Integrated Networks," *IEEE Transactions on Mobile Computing*, vol. 23, no. 12, pp. 11000–11013, 2024. DOI: https://doi.org/10.1109/TMC.2024.3389011
+**Full Citation:** 
+Y. Qin, Y. Yang, F. Tang, X. Yao, M. Zhao, and N. Kato, "Differentiated Federated Reinforcement Learning Based Traffic Offloading on Space-Air-Ground Integrated Networks," arXiv preprint arXiv:2212.02075v4, Jul. 2024.
+
+https://arxiv.org/abs/2212.02075?utm_source=chatgpt.com
+
 
 ## Summary
 
-This paper combines federated learning with reinforcement learning for traffic offloading in SAGIN. Different areas of the network can have different traffic, users, and link conditions, so one identical AI policy may not work everywhere. The authors propose differentiated federated reinforcement learning, where several agents learn policies suited to their own regions while still sharing useful model knowledge. Their method aims to improve throughput, lower packet loss, and reduce packet delay.
+This paper looks at solving the traffic offloading problem in Space-Air-Ground Integrated Networks (SAGIN) using Differentiated Federated Reinforcement Learning (DFRL). The authors explain that different parts of a SAGIN have different traffic loads, users, and network conditions, so using one global AI model for every region is not always the best choice. To solve this, they propose a new algorithm called DFSAC (Differentiated Federated Soft Actor-Critic). Instead of sharing the whole model, each agent keeps its own local policy while sharing a trend model through federated learning. The traffic offloading problem is also modeled as a DEC-POMDP so multiple agents can learn and make decisions together. The simulation results show that the proposed method achieves higher network throughput while reducing packet loss and packet delay compared to traditional federated reinforcement learning and other baseline methods.
 
 ## Relevance to Our Survey
 
-This paper is strongly related to our topic because it combines two important AI directions: federated learning and reinforcement learning. It shows a decentralized way to make traffic decisions without sending all raw information to one central controller. This can support our discussion about scalable and privacy-aware AI for SAGIN.
+This paper is closely related to our survey because it combines federated learning and reinforcement learning for traffic management in SAGIN. It shows a decentralized way to make traffic decisions without sending all raw information to one central controller. This can support our discussion about scalable and privacy-aware AI for SAGIN.
 
 ## Critical Comment
 
@@ -16,4 +20,4 @@ Federated learning still requires model updates to be exchanged. In satellite an
 
 ## AI Disclosure
 
-I used ChatGPT to help find relevant papers for this project. I then read and studied the paper myself and wrote this summary based on my own understanding. I used AI only to help organize the format and improve grammar and clarity.
+I found this paper through the KPU Library and read it thoroughly. I then wrote a rough draft based on my own understanding of the paper and my findings. After that, I used ChatGPT only to improve the grammar, clarity, and formatting of my writing.
