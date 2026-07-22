@@ -16,4 +16,4 @@ This is a broad overview paper, so it does not deeply test one complete technica
 
 ## AI Disclosure
 
-I used ChatGPT to help find relevant papers for this project. I then read and studied the paper myself and wrote this summary based on my own understanding. I used AI only to help organize the format and improve grammar and clarity.
+I used ChatGPT to help me find a suitable research paper. I read the paper myself, took notes, and wrote this summary based on what I understood from the paper. AI was used only to refine the grammar, formatting, and readability of the final version.
