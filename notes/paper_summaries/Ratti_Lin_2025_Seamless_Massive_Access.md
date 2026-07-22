@@ -16,4 +16,4 @@ The paper presents a broad AI-driven direction, but large-scale real deployments
 
 ## AI Disclosure
 
-I used ChatGPT to help find relevant papers for this project. I then read and studied the paper myself and wrote this summary based on my own understanding. I used AI only to help organize the format and improve grammar and clarity.
+I used ChatGPT to help locate relevant papers for this project. After selecting the paper, I read it carefully and wrote the summary based on my own understanding. I then used AI only to improve the grammar, formatting, and overall clarity of the writing.
