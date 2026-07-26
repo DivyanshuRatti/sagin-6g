@@ -1,6 +1,8 @@
 # Paper Summary
 
-**Full Citation:** R. Zhang et al, "Generative AI for Space-Air-Ground Integrated Networks," ArXiv.Org, 2024. Available: https://ezproxy.kpu.ca:2443/login?url=https://www.proquest.com/working-papers/generative-ai-space-air-ground-integrated/docview/2889798672/se-2. 
+**Full Citation:** Zhang, R., Du, H., Niyato, D., Kang, J., Xiong, Z., Jamalipour, A., Zhang, P., & Kim, D. I. (2024), "Generative AI for Space-Air-Ground Integrated Networks," ArXiv.Org, 2024. 
+
+Available: https://ezproxy.kpu.ca:2443/login?url=https://www.proquest.com/working-papers/generative-ai-space-air-ground-integrated/docview/2889798672/se-2. 
 
 DOI: https://doi.org/10.1109/MWC.016.2300547.
 

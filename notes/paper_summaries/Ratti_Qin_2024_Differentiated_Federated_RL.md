@@ -3,7 +3,7 @@
 **Full Citation:** 
 Y. Qin, Y. Yang, F. Tang, X. Yao, M. Zhao, and N. Kato, "Differentiated Federated Reinforcement Learning Based Traffic Offloading on Space-Air-Ground Integrated Networks," arXiv preprint arXiv:2212.02075v4, Jul. 2024.
 
-https://arxiv.org/abs/2212.02075?utm_source=chatgpt.com
+http://arxiv.org/abs/2212.02075
 
 
 ## Summary
