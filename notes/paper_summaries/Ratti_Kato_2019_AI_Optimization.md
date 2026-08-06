@@ -1,6 +1,6 @@
 # Paper Summary
 
-**Full Citation:** NKato, N., Fadlullah, Z. M., Tang, F., Mao, B., Tani, S., Okamura, A., & Liu, J. (2018). Optimizing Space-Air-Ground Integrated Networks by Artificial Intelligence.
+**Full Citation:** Kato, N., Fadlullah, Z. M., Tang, F., Mao, B., Tani, S., Okamura, A., & Liu, J. (2018). Optimizing Space-Air-Ground Integrated Networks by Artificial Intelligence.
 
 https://ezproxy.kpu.ca:2443/login?url=https://www.proquest.com/working-papers/optimizing-space-air-ground-integrated-networks/docview/2092744641/se-2?accountid=35875
 
